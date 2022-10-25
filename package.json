@@ -1,0 +1,14 @@
+{
+  "name": "image resizer",
+  "version": "1.0.0",
+  "description": "it resizes and compress jpg, png and webp files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HeitorTheWizard",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.31.1"
+  }
+}
